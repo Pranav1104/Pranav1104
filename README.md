@@ -16,5 +16,6 @@ B.Tech Third year student having good problem solving skills and interested in d
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
+<br>
+[![](https://visitcount.itsvg.in/api?id=Pranav1104&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
